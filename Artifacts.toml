@@ -1,113 +1,113 @@
 [[HarfBuzz]]
-arch = "i686"
-git-tree-sha1 = "4a67e790c2144ad7b547343179cbb2c9ef7accfe"
-libc = "musl"
+arch = "aarch64"
+git-tree-sha1 = "84c80d9b207b6d418d21833544896328887ebc37"
+libc = "glibc"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "9238792f28229d6ad102412ed03251c863815f4c908bfaf7b3402e8aedecf32e"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.i686-linux-musl.tar.gz"
+    sha256 = "b87b744bcc62691dba91e3718e45cc842d14ac70e41648ed113606656bba4083"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.aarch64-linux-gnu.tar.gz"
 [[HarfBuzz]]
 arch = "aarch64"
-git-tree-sha1 = "0f2dd1c6c3624ebbca0ce432056d1eedae1e84c5"
+git-tree-sha1 = "28011ec10db85d6e790a31ae11a3ae464b2630a1"
 libc = "musl"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "47ef47c6f0ab16d3383700654c861ebd0fc8911a4f56baeba5ed1c44ebf05f9c"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.aarch64-linux-musl.tar.gz"
-[[HarfBuzz]]
-arch = "i686"
-git-tree-sha1 = "b581131b525f7e7f0f6d7f2362e9579932157629"
-os = "windows"
-
-    [[HarfBuzz.download]]
-    sha256 = "a65a25e86cf5f7c294e758985fe1f0c35a8d9464088d69886f5e47fdf9632ff5"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.i686-w64-mingw32.tar.gz"
-[[HarfBuzz]]
-arch = "x86_64"
-git-tree-sha1 = "ed9b7459124f2c948a3df1f48f5fa9cfd916519c"
-os = "windows"
-
-    [[HarfBuzz.download]]
-    sha256 = "6b5ddf8500c53f6afcccbebb7806565b822b9ab38cacae5ff17c14960d02c2be"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.x86_64-w64-mingw32.tar.gz"
+    sha256 = "53078b01a9ee0959c374b150e025122c907c780363769821ec70f653a046924c"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.aarch64-linux-musl.tar.gz"
 [[HarfBuzz]]
 arch = "armv7l"
-git-tree-sha1 = "02c7a1ad839d1002c89f8b380c16f1ec6f21610a"
+git-tree-sha1 = "6a48c9424239f24218661e1a262ba16e78d92f47"
 libc = "glibc"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "d913ad55c9652e033ecce8a5901ab90088cb99079d794426d808e3b363448216"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "810f0442a9fe8bd99316fb51c5393fbff08955af66a555e992c473cd1498df70"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.armv7l-linux-gnueabihf.tar.gz"
 [[HarfBuzz]]
 arch = "armv7l"
-git-tree-sha1 = "940c0b4b50f18738fec472e8ae80a3ca7d345d12"
+git-tree-sha1 = "3f32f91388c61f802ce48bcbaecbfadb9893599f"
 libc = "musl"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "45a33a040b7a3f476cff3613de17564af2fadd2151daa70eb067288274e65395"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "4a8990fbf23c638ef051166d48062c7e089cfb77d3a5c72bf08f59121bbd0eb7"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.armv7l-linux-musleabihf.tar.gz"
 [[HarfBuzz]]
 arch = "i686"
-git-tree-sha1 = "6668b4c2b560c1a0af4e6475ae2984fa1a5b04ac"
+git-tree-sha1 = "53d55500fbc1b991cdb13e60e3b16f081bace26e"
 libc = "glibc"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "5f572c33c51800d9405e9c4ef5c7626bc9dcb1108dbb329c2b2e86a605d498d0"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.i686-linux-gnu.tar.gz"
+    sha256 = "d3328df7355fcee578381434a54e9c1cd52bd89a20ceebc8a47e6ced252ef0d6"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.i686-linux-gnu.tar.gz"
 [[HarfBuzz]]
-arch = "x86_64"
-git-tree-sha1 = "fa3ffbf1684fe5a3a91cb831a4ef9300df958a4d"
-libc = "glibc"
+arch = "i686"
+git-tree-sha1 = "00b87f67fd44b087724cf25992ae909ff3afaf9d"
+libc = "musl"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "3e1af7368c7205d92cfdce037eff328c5251c5b1cfb9f6aabfad76a7262fcfb6"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "2bd1940f26393209247357c55a0b9d1974b9245a4e1b3fbe28f2fe50574f556f"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.i686-linux-musl.tar.gz"
+[[HarfBuzz]]
+arch = "i686"
+git-tree-sha1 = "0869c1f4617dcfed389cea26e70cb9ca44847ef4"
+os = "windows"
+
+    [[HarfBuzz.download]]
+    sha256 = "47e103975f772e7696b82dc204eac9605d8bfd0c817f01a3b447d995251d7e50"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.i686-w64-mingw32.tar.gz"
 [[HarfBuzz]]
 arch = "powerpc64le"
-git-tree-sha1 = "f75988676c96875cabe6af15c1c21d425f2ad6d6"
+git-tree-sha1 = "8afbea05cbbfc0fde532c3abce8701e0974cc0f9"
 libc = "glibc"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "404689b867d6e76cb0992f90d39709df147a02a1e455ed534415c22f2011757f"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "fcd711508cc64c223f3e7afa65a449615256cb962de7cd284335b9f2b9bcb25b"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.powerpc64le-linux-gnu.tar.gz"
 [[HarfBuzz]]
 arch = "x86_64"
-git-tree-sha1 = "d3a61f226588df714e757f6e4aa0af7e88a47769"
+git-tree-sha1 = "e7dd8c7a289c75e6621eb5183995743d6d24ea8b"
 os = "macos"
 
     [[HarfBuzz.download]]
-    sha256 = "c809f94d56ccdd4fc5fd9c3d1a5c05cbd678f0ee75f8a2b0803979225b2ebaf3"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.x86_64-apple-darwin14.tar.gz"
+    sha256 = "e80466878ee914ca47519ab0b8c54f7148cfcb0ddc9bd38af232292c95d0a4da"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.x86_64-apple-darwin14.tar.gz"
 [[HarfBuzz]]
-arch = "aarch64"
-git-tree-sha1 = "6ab2757b114952e663adc91b8f78b61c20934a6b"
+arch = "x86_64"
+git-tree-sha1 = "fde230b9c36a38332ec5f79f543ea95639b9002f"
 libc = "glibc"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "1714b6aa6379b2f8bb97019e089937e4bed7d2ef1bb8f648a644aa1c7729d1da"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.aarch64-linux-gnu.tar.gz"
+    sha256 = "03f63367eb2a56af409a515ac610e73473a6636a302c382ccf05e1d8b8178733"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.x86_64-linux-gnu.tar.gz"
 [[HarfBuzz]]
 arch = "x86_64"
-git-tree-sha1 = "e9a0ed390f47fb66a6e106fb4a45b6ff8675594a"
-os = "freebsd"
-
-    [[HarfBuzz.download]]
-    sha256 = "955634915e18c6c59e11c5ed8f2091b46fbec2059d68ca73e3ed9a33845b20eb"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.x86_64-unknown-freebsd11.1.tar.gz"
-[[HarfBuzz]]
-arch = "x86_64"
-git-tree-sha1 = "ba8a93bc088ee63b3c4e78b573c1f06e90f36d71"
+git-tree-sha1 = "37e77ddb9bad11d3f0473eda9caeecd734f4e29f"
 libc = "musl"
 os = "linux"
 
     [[HarfBuzz.download]]
-    sha256 = "13e1b3577b30d960a59cd3b7a81823106facb85997a1bfefdfe4b5a3a9cc4645"
-    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+5/HarfBuzz.v2.6.1.x86_64-linux-musl.tar.gz"
+    sha256 = "11f45785de2b72a4a79ac085910bb41bf7cfdd7d9b759a949273729ba81571b8"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.x86_64-linux-musl.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "b120cf0187427bd14f66c7aee5add3b901cdfee3"
+os = "freebsd"
+
+    [[HarfBuzz.download]]
+    sha256 = "8d6d2efe4c04e7f66505154e77eb656a16893a427297c18a5a6ad75ab3938d1f"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.x86_64-unknown-freebsd11.1.tar.gz"
+[[HarfBuzz]]
+arch = "x86_64"
+git-tree-sha1 = "176d70a4003d15f3868b2fe4c28c0aafe8591b06"
+os = "windows"
+
+    [[HarfBuzz.download]]
+    sha256 = "7f05e5d8be996b83e8df6d8fb3dba1f1c5dc24323b36c483bd30d56b44b6f3fd"
+    url = "https://github.com/JuliaBinaryWrappers/HarfBuzz_jll.jl/releases/download/HarfBuzz-v2.6.1+6/HarfBuzz.v2.6.1.x86_64-w64-mingw32.tar.gz"
