@@ -17,5 +17,6 @@ ICU_jll = "a51ab1cf-af8e-5615-a023-bc2c838bba6b"
 Libffi_jll = "e9f186c6-92d2-5b65-8a66-fee21dc1b490"
 
 [compat]
+ICU_jll = "67.1.0+3"
 JLLWrappers = "1.1.0"
 julia = "1.0"
